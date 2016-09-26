@@ -1,4 +1,4 @@
-###A Simple Music web app using Django 1.10
+#A Simple Music web app using Django 1.10
 
 ##The app includes organising the albums and music files in a web ui
 
